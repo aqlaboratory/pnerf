@@ -9,4 +9,4 @@ This is a TensorFlow implementation of pNeRF. Using this implementation we obser
 Color intensity corresponds to fold speed up.
 
 ### Citation
-Please cite the forthcoming preprint on pNeRF when it becomes available.
+Please cite the [bioRxiv preprint](https://www.biorxiv.org/content/early/2018/08/06/385450) while the manuscript is in review.
