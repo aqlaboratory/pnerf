@@ -54,7 +54,8 @@ def point_to_coordinate(pt, num_fragments=6, parallel_iterations=4, swap_memory=
 
         Reconstruction is done in parallel, by independently reconstructing num_fragments fragments and then 
         reconstituting the chain at the end in reverse order. The core reconstruction algorithm is NeRF, based on 
-        DOI: 10.1002/jcc.20237 by Parsons et al. 2005. The parallelized version is described in XXX.
+        DOI: 10.1002/jcc.20237 by Parsons et al. 2005. The parallelized version is described in 
+        https://www.biorxiv.org/content/early/2018/08/06/385450.
 
     Args:
         pt: [NUM_STEPS x NUM_DIHEDRALS, BATCH_SIZE, NUM_DIMENSIONS]
