@@ -8,5 +8,9 @@ This is a TensorFlow implementation of pNeRF. Using this implementation we obser
 
 Color intensity corresponds to fold speed up.
 
+### PyTorch Implementation
+
+A PyTorch implementation of pNeRF has been developed by [@FelixOpolka](https://github.com/FelixOpolka) and is available [here](https://github.com/FelixOpolka/pnerf-pytorch).
+
 ### Citation
 Please cite the [bioRxiv preprint](https://www.biorxiv.org/content/early/2018/08/06/385450) while the manuscript is in review.
