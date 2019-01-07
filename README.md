@@ -13,4 +13,4 @@ Color intensity corresponds to fold speed up.
 A PyTorch implementation of pNeRF has been developed by [@FelixOpolka](https://github.com/FelixOpolka) and is available [here](https://github.com/FelixOpolka/pnerf-pytorch).
 
 ### Citation
-Please cite the [bioRxiv preprint](https://www.biorxiv.org/content/early/2018/08/06/385450) while the manuscript is in review.
+Please cite this [paper in the Journal of Computational Chemistry](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25772).
