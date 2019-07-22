@@ -14,3 +14,6 @@ A PyTorch implementation of pNeRF has been developed by [@FelixOpolka](https://g
 
 ### Citation
 Please cite this [paper in the Journal of Computational Chemistry](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25772).
+
+### Funding
+This work was supported by NIGMS grant P50GM107618.
